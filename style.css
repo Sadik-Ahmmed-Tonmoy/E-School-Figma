@@ -1,0 +1,43 @@
+/*navbar*/
+.nav-logo img{
+  height: 40px;
+  width: auto
+}
+
+/*Banner*/
+.bnr-img{
+  height: auto;
+  width: auto;
+  margin-bottom: 40px;
+}
+.red{
+  color: red;
+}
+.green{
+  color: #21B573;
+}
+/*grid*/
+.grid-img img{
+  height: auto;
+  width: 80px;
+}
+.col-md-3{
+  height: 270px;
+  width: 270px;
+    background-color:#F0FFF0;
+  margin-top: 50px;
+  margin-right: 20px;
+  border: none;
+}
+
+/*Universal*/
+.button{
+  width: auto;
+  background: #21B573;
+  border-radius: 33px;
+  border-color: #21B573;
+  }
+  
+  .bg-clr{
+    background-color:#F0FFF0;
+  }
