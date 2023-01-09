@@ -1,7 +1,8 @@
 /*navbar*/
 .nav-logo img{
   height: 40px;
-  width: auto
+  width: auto;
+  background: #282531;
 }
 
 /*Banner*/
